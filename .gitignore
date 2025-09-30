@@ -1,0 +1,7 @@
+assets/*
+cmake-build-debug/*
+alchemy_project.txt
+main
+build/*
+.DS_Store
+.idea/*
